@@ -4,7 +4,7 @@ env/
 ENV/
 
 # 🧠 Modelos entrenados
-models/
+
 
 # 📦 Python cache
 __pycache__/
