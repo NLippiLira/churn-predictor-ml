@@ -1,0 +1,42 @@
+# 🐍 Entorno virtual
+venv/
+env/
+ENV/
+
+# 🧠 Modelos entrenados
+models/
+
+# 📦 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📊 Archivos temporales de notebooks
+.ipynb_checkpoints/
+
+# ⚙️ Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# 🔐 Variables de entorno
+.env
+
+# 📝 Logs
+*.log
+
+# 🧪 Archivos temporales
+*.tmp
+
+# 🧰 VS Code
+.vscode/
+
+# 🧰 Jupyter runtime
+.jupyter/
+
+# 🧪 Coverage / testing
+.coverage
+htmlcov/
+
+# 🐳 Docker (opcional)
+*.pid
